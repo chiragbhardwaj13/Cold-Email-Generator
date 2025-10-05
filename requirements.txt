@@ -5,4 +5,4 @@ pygments>=2.19.2
 mdurl~=0.1
 unstructured==0.17.0
 langchain==0.2.14
-langchain-community==0.1.2
+langchain-community>=0.3.30
